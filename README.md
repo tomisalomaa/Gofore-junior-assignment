@@ -3,7 +3,7 @@
 ## Description
 Peep poop I am a robot who loves travelling hashtag filled maps. My only weaknesses are the inabilities to foresee obstables and then turn anywhere but right when conforted with them.
 
-This robot visits https://gofore.com/junior-developer-assignment/ and takes one good look at the map available during that specific instance. After a bit of map manipulation into a more suitable format, it traverses the maps and logs the whole adventure into the robot Framework (RF) log file available after the run. Also writes memoirs into the results.txt file.
+This robot visits https://gofore.com/junior-developer-assignment/ and takes one good look at the map available during that specific instance. After a bit of map manipulation into a more suitable format, it traverses the map and logs the whole adventure into the robot Framework (RF) log file available after the run. Also writes memoirs into the results.txt file.
 
 ## Executing
 
